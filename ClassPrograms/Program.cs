@@ -31,10 +31,10 @@ namespace ClassPrograms
             //ps.GetString();
 
             //reverse string
-            Console.WriteLine("enter string");
-            string str = Console.ReadLine();
-            ReverseString rs = new ReverseString(str);
-            rs.GetReverseString();
+            //Console.WriteLine("enter string");
+            //string str = Console.ReadLine();
+            //ReverseString rs = new ReverseString(str);
+            //rs.GetReverseString();
 
             //highest number from array
             //Console.WriteLine("enter size of array");
@@ -42,6 +42,9 @@ namespace ClassPrograms
             //HighestNumFromArray hn = new HighestNumFromArray();
             //hn.GetHighestFromArray();
 
+            //reverse number of alphabet
+            ReverseAlphabet ra = new ReverseAlphabet();
+            ra.GetReverseAlphabet();
 
 
 
