@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\bin\Debug\net6.0\ClassPrograms.exe
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\bin\Debug\net6.0\ClassPrograms.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\bin\Debug\net6.0\ClassPrograms.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\bin\Debug\net6.0\ClassPrograms.dll
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\bin\Debug\net6.0\ref\ClassPrograms.dll
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\bin\Debug\net6.0\ClassPrograms.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\obj\Debug\net6.0\ClassPrograms.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\obj\Debug\net6.0\ClassPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\obj\Debug\net6.0\ClassPrograms.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\obj\Debug\net6.0\ClassPrograms.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\obj\Debug\net6.0\ClassPrograms.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\obj\Debug\net6.0\ClassPrograms.dll
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\obj\Debug\net6.0\ref\ClassPrograms.dll
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\obj\Debug\net6.0\ClassPrograms.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\ClassPrograms\ClassPrograms\obj\Debug\net6.0\ClassPrograms.genruntimeconfig.cache
